@@ -1,0 +1,16 @@
+# data.yaml - FINAL CORRECT VERSION
+
+path: ./ID_Card_Dataset_All
+train: images
+val: images
+
+# Number of classes
+nc: 5
+
+# The "Dictionary" that connects numbers to names. The order is critical.
+names: 
+  - collegeName_with_logo  # The name for class 0
+  - student_photo          # The name for class 1
+  - student_name           # The name for class 2
+  - student_roll_number    # The name for class 3
+  - wrong_layout           # The name for class 4
