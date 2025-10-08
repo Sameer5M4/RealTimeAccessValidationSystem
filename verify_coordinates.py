@@ -64,7 +64,7 @@ if __name__ == '__main__':
 
     # Paste the coordinates your model gave you. Format is [x1, y1, x2, y2].
     # Example: [123.45, 234.56, 345.67, 456.78]
-    COORDINATES_TO_VERIFY = [351.46142578125, 305.2427673339844, 794.0491943359375, 370.72650146484375]
+    COORDINATES_TO_VERIFY = [353.78387451171875, 312.2796936035156, 793.531494140625, 365.7069091796875]
 
     # Give the box a name so you know what you're looking at.
     LABEL_FOR_BOX = "student_photo"
